@@ -1,0 +1,4 @@
+name: CombatLogg
+version: '${project.version}'
+main: com.foxdev.combatlogg.CombatLogg
+api-version: '1.19'
